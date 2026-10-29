@@ -1,0 +1,7 @@
+{
+  "name": "pacific-park-agent",
+  "version": "0.1.0",
+  "description": "SC Holdings' Pacific Park agent for Grok Bot. One skill, 'Pacific Park agent - start here', run at the start of every conversation about the Park: it brings the Park's skills up to date from the agent's data store, reads the knowledge files from SharePoint with the agent's read key, and gives the Bot its instructions. The skills, the facts and the keys are not in this plugin; it only knows where they are.",
+  "author": { "name": "SC Holdings", "email": "bruno.dyjas@sc.holdings" },
+  "license": "UNLICENSED"
+}
